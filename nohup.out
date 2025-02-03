@@ -1,0 +1,32 @@
+ * Serving Flask app 'app'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.88.32:5000
+Press CTRL+C to quit
+54.211.221.206 - - [03/Feb/2025 18:06:02] "GET /api/classify-number?number=371 HTTP/1.1" 200 -
+129.222.187.44 - - [03/Feb/2025 18:07:03] "GET /api/classify-number?number=71 HTTP/1.1" 200 -
+129.222.187.44 - - [03/Feb/2025 18:10:24] "GET /api/classify-number?number=71 HTTP/1.1" 200 -
+ * Serving Flask app 'app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.88.32:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 107-170-625
+ * Serving Flask app 'app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.88.32:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 107-170-625
+54.211.221.206 - - [03/Feb/2025 18:22:25] "GET /api/classify-number?number=371 HTTP/1.1" 200 -
+54.211.221.206 - - [03/Feb/2025 18:22:39] "GET /api/classify-number?number=4 HTTP/1.1" 200 -
